@@ -10,7 +10,7 @@ Dan ini tampilannya di browser, tampilannya masih polos karena belum menggunakan
 ![Gambar 2](screenshot/ss1b.PNG)
 
 ###  Mendeklarasikan CSS Internal
-Untuk mendeklarasikan CSS internal menggunakan tag *<style>* yang di simpan di bagian tag '<head></head>'.
+Untuk mendeklarasikan CSS internal menggunakan tag *<style>* yang di simpan di bagian tag `<head></head>`.
 
 Untuk tag '<body></body>' menggunakan *selector body* yang diisi dengan "font-family:'Open Sans', sans-serif;".
 
