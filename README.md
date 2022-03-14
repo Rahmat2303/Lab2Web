@@ -10,11 +10,11 @@ Dan ini tampilannya di browser, tampilannya masih polos karena belum menggunakan
 ![Gambar 2](screenshot/ss1b.PNG)
 
 ###  Mendeklarasikan CSS Internal
-Untuk mendeklarasikan CSS internal menggunakan tag *<style>* yang di simpan di bagian tag *<head>* .
+Untuk mendeklarasikan CSS internal menggunakan tag *<style>* yang di simpan di bagian tag **<head>** .
 
-Untuk tag *<body>* menggunakan *selector body* yang diisi dengan "font-family:'Open Sans', sans-serif;".
+Untuk tag **<body>** menggunakan *selector body* yang diisi dengan "font-family:'Open Sans', sans-serif;".
 
-Untuk tag *<eader>* menggunakan *selector header* yang diisi dengan "min-height: 80px; border-bottom:1px solid #77CCEF;".
+Untuk tag *<header>* menggunakan *selector header* yang diisi dengan "min-height: 80px; border-bottom:1px solid #77CCEF;".
 
 Untuk tag *<h1>* menggunakan *selector h1* yang diisi dengan "font-size: 24px; color: #0F189F; text-align: center; padding: 20px 10px;".
 
@@ -22,7 +22,7 @@ Dan untuk tag *<i>*  yang ada di dalam tag *<h1>* menggunakan *selector h1 i* ya
 
 Ini gambarnya :
 
-![Gambar 3](screemshot/ss2a.PNG)
+![Gambar 3](screenshot/ss2a.PNG)
 
 Ini tampilannya di browser :
 
