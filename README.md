@@ -31,7 +31,7 @@ Ini tampilannya di browser :
 Terlihat jauh perbedaanya jika menggunakan CSS.
 
 ### 3. Menambahkan Inline CSS
-Agar bisa mendeklarasikan **Inline CSS** yaitu dengan cara menambahkannya di dalam tag HTML. Contoh saat ini menambahkan **Inline CSS** di dalam tag `<p></p>`. Ketika menggunakan **Inline CSS** tidak perlu menggunakan selector, karena posisi CSSnya sudah ada di dalam tag HTML tersebut.
+Agar bisa mendeklarasikan **Inline CSS** yaitu dengan cara menambahkannya di dalam tag HTML. Contoh saat ini menambahkan **Inline CSS** di dalam tag `<p></p>`. Ketika menggunakan **Inline CSS** tambahkan atribut **style** dan tidak perlu menggunakan selector, karena posisi CSSnya sudah ada di dalam tag HTML tersebut.
 
 Seperti ini gambarnya :
 
